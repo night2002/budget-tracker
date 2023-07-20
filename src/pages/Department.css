@@ -1,0 +1,36 @@
+.bg{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    outline: 5px solid lightgray;
+}
+.department-title{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 20px;
+}
+.container-dept{
+    display: flex;
+    flex-direction: row;
+    gap: 20rem;
+    padding-right: 4rem;
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    padding-left: 4rem;
+}
+.expenditures{
+    font-size: 2rem;
+}
+.requests{
+    font-size: 2rem;
+}
+.details{
+    gap:2rem;
+    display: flex;
+    flex-direction: row;
+}
+.values{
+    color: red;
+}
+.p{
+    color: green;
+}
